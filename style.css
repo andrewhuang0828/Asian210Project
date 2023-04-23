@@ -6,10 +6,12 @@ body {
     background-image: url("images/a.jpg");
 }
 
-header h1 {
+header h1,
+h2 {
     text-align: center;
     font-weight: bold;
     margin-top: 0;
+    color: black;
 }
 
 header p {
